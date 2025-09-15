@@ -18,12 +18,7 @@ Our results demonstrate that incorporating ELA preprocessing and CBAM improves t
 ---
 
 ## 📂 Contents
-- `preprocessing/` → Scripts for applying **ELA** on datasets  
-- `models/` → CNN + CBAM implementation  
-- `train.py` → Training script with configurable parameters  
-- `evaluate.py` → Evaluation on CASIA and CoMoFoD datasets  
-- `results/` → Experimental results and logs  
-
+- `main.py` 
 ---
 
 ## 📊 Datasets
