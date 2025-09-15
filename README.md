@@ -6,6 +6,7 @@ This repository provides the official implementation of the paper:
 
 **Forgery Detection in Digital Images using ELA and Attention-based CNN Architecture**  
 *(Damla Dilara Fidan, Gül Tahaoglu, 2025)*
+<img width="2048" height="768" alt="INPUT" src="https://github.com/user-attachments/assets/bbae5ba1-5875-4dea-b4d8-5251b3465e1d" />
 
 ---
 
